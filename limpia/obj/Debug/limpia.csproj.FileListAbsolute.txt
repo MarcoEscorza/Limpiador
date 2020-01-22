@@ -1,0 +1,11 @@
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\bin\Debug\limpia.exe.config
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\bin\Debug\limpia.exe
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\bin\Debug\limpia.pdb
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.Form1.resources
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.Properties.Resources.resources
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.csproj.GenerateResource.Cache
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.exe
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.pdb
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.csprojResolveAssemblyReference.cache
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.TrustInfo.xml
+C:\Users\usuario\documents\visual studio 2015\Projects\Limpia\limpia\obj\Debug\limpia.exe.manifest
